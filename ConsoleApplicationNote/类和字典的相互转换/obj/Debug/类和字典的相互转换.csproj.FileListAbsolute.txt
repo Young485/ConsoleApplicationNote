@@ -1,0 +1,3 @@
+c:\users\zhoumin\documents\visual studio 2013\Projects\类和字典的相互转换\类和字典的相互转换\bin\Debug\类和字典的相互转换.exe.config
+c:\users\zhoumin\documents\visual studio 2013\Projects\类和字典的相互转换\类和字典的相互转换\bin\Debug\ConsoleApplicationNote.exe.config
+E:\个人Git存储库\ConsoleApplicationNote\ConsoleApplicationNote\类和字典的相互转换\bin\Debug\ConsoleApplicationNote.exe.config
